@@ -3,3 +3,6 @@
 ################################################################################
 
 /DbDiagramUtils.csproj.user
+/bin/Debug
+/obj/Debug
+/.vs/DbDiagramUtils/v14/.suo

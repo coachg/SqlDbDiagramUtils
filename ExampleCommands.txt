@@ -1,0 +1,2 @@
+﻿--ExportDiagram -S [YourDbServer] -D [YourDb] -M [YourDbDiagram] -P "C:\Temp\YourDbDiagram.dat"
+--ImportDiagram -S [YourDbServer] -D [YourDb] -M [YourDbDiagram] -P "C:\Temp\YourDbDiagram2.dat"
