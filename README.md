@@ -7,12 +7,14 @@ Simple command line utility to export and import SQL Server database diagrams
 --ImportDiagram -S [YourDbServer] -D [YourDb] -M [YourDbDiagram] -P "C:\Temp\YourDbDiagram2.dat"
 
 # Credits
-This project uses the following NuGet packages
-Dapper
-https://www.nuget.org/packages/Dapper
-https://github.com/StackExchange/dapper-dot-net
+##This project uses the following NuGet packages
+###Dapper
+[https://www.nuget.org/packages/Dapper](https://www.nuget.org/packages/Dapper)
 
-CommandLineParser
-https://www.nuget.org/packages/CommandLineParser/
-https://github.com/gsscoder/commandline
+[https://github.com/StackExchange/dapper-dot-net](https://github.com/StackExchange/dapper-dot-net)
+
+###CommandLineParser
+[https://www.nuget.org/packages/CommandLineParser/](https://www.nuget.org/packages/CommandLineParser/)
+
+[https://github.com/gsscoder/commandline](https://github.com/gsscoder/commandline)
 
